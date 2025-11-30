@@ -63,8 +63,6 @@ I'm a passionate **Data Analytics enthusiast** on a mission to transform raw dat
 
 <div align="center">
 
-[![15 Days NumPy Mastery Challenge](https://github-readme-stats.vercel.app/api/pin/?username=RamBramhaReddy&repo=15DaysNumpyChallenge&theme=radical&hide_border=true)](https://github.com/RamBramhaReddy/15DaysNumpyChallenge)
-
 [![Smart Restaurant App](https://github-readme-stats.vercel.app/api/pin/?username=RamBramhaReddy&repo=Smart-Restaurant-app&theme=radical&hide_border=true)](https://github.com/RamBramhaReddy/Smart-Restaurant-app)
 
 </div>
