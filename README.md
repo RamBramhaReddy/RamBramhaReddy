@@ -1,212 +1,144 @@
+# <br> Hi there, I'm Ram Bramha Reddy! 👋
 <div align="center">
-  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Ram+Bramha+Reddy;Data+Alchemy+Specialist;Turning+Raw+Data+Into+Pure+Gold" alt="Typing SVG" />
-  </h1>
-</div>
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Location-Hyderabad%2C+India-blue?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1f6feb&color=00D9FF" />
-    <img src="https://img.shields.io/badge/Status-Open+to+Opportunities-green?style=flat-square&logo=statuspage&logoColor=white&labelColor=1f6feb&color=00D9FF" />
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Python+Developer;SQL+Specialist;Lifelong+Learner+%F0%9F%9A%80;Transform+Data+Into+Insights" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 <span style="color:#00D9FF">ABOUT ME</span>
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+I'm a passionate **Data Analytics enthusiast** on a mission to transform raw data into actionable insights. Currently pursuing advanced **SQL and Data Visualization** techniques while continuously expanding my expertise in Python and data-driven decision making.
 
-### 💼 Who I Am
+> 💡 "Every dataset tells a story—I'm here to discover and share it!"
+
+- 🎯 **Focus Areas**: Data Analytics, SQL, Python, Data Visualization
+- 🔭 **Currently Exploring**: Advanced SQL optimization, real-time data pipelines, and predictive analytics
+- 🌱 **Learning Path**: Python → NumPy → Pandas → Data Visualization → Machine Learning
+- 📚 **Training Program**: Innomatics Research Labs - Data Science Fundamentals
+- 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/yennam-ram-bramha-reddy)
+- ⚡ **Fun fact**: I believe every dataset has a story to tell, and I'm learning to read them fluently!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RamBramhaReddy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamBramhaReddy&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamBramhaReddy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+[![15 Days NumPy Mastery Challenge](https://github-readme-stats.vercel.app/api/pin/?username=RamBramhaReddy&repo=15DaysNumpyChallenge&theme=radical&hide_border=true)](https://github.com/RamBramhaReddy/15DaysNumpyChallenge)
+
+[![Smart Restaurant App](https://github-readme-stats.vercel.app/api/pin/?username=RamBramhaReddy&repo=Smart-Restaurant-app&theme=radical&hide_border=true)](https://github.com/RamBramhaReddy/Smart-Restaurant-app)
+
+</div>
+
+---
+
+## 📈 Learning Journey
 
 ```python
-class DataScientist:
+class DataAnalyst:
     def __init__(self):
         self.name = "Ram Bramha Reddy"
-        self.title = "Data Alchemy Specialist"
-        self.mission = "Transform Raw Data → Insights"
-        self.passion = "🔥 Building Intelligence"
+        self.role = "Data Analytics Enthusiast"
+        self.learning = ["Python", "SQL", "NumPy", "Pandas", "Data Visualization"]
+        self.passion = "Transforming data into actionable insights"
+        self.goal = "Master end-to-end data analytics pipeline"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's collaborate and grow together!")
+
+me = DataAnalyst()
+me.say_hi()
 ```
 
-</td>
-<td width="50%">
+---
 
-### ⚡ Why I'm Different
+## 🌟 Current Focus
 
-✨ **Expert at:** SQL ↔ Python ↔ Power BI  
-🎯 **Master of:** Data Cleaning & EDA  
-📊 **Specialist in:** Analytics Dashboards  
-🔬 **Obsessed with:** Data Storytelling  
-
-</td>
-</tr>
-</table>
+- 📚 **Mastering SQL** - Advanced queries, optimization, and database design
+- 💻 **Data Visualization** - Creating compelling visual stories with Python
+- 📊 **Statistical Analysis** - Probability, hypothesis testing, and exploratory data analysis
+- 🚀 **Building Projects** - Real-world data analytics projects on GitHub
+- 🧠 **Problem Solving** - LeetCode SQL and data challenges
 
 ---
 
-## 🛠️ <span style="color:#00D9FF">TECH ARSENAL</span>
+## 🎓 Skills & Expertise
 
-### 📊 Data Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=3776AB" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000&color=336791" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000&color=150458" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000&color=013243" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&labelColor=000000&color=8CAAE6" />
-</div>
+**Data Analysis & Visualization**
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical analysis and hypothesis testing
+- Data visualization with Matplotlib and Seaborn
 
-### 📈 Visualization & BI
-<div align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=11557C" />
-  <img src="https://img.shields.io/badge/Seaborn-0C4B8C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=0C4B8C" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=000000&color=E97627" />
-</div>
+**Programming & Databases**
+- Python programming fundamentals
+- SQL queries and database operations
+- NumPy array manipulation
+- Pandas DataFrame operations
 
-### 🧰 Tools & Environment
-<div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000&color=F37726" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black&labelColor=000000&color=F9AB00" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&color=007ACC" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000&color=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=181717" />
-</div>
+**Tools & Platforms**
+- Jupyter Notebooks for interactive analysis
+- Google Colab for collaborative work
+- VS Code for development
+- Git & GitHub for version control
 
 ---
 
-## 🎯 <span style="color:#00D9FF">CORE COMPETENCIES</span>
+## 📫 Let's Connect!
 
 <div align="center">
 
-| Skill | Level | Experience |
-|-------|-------|------------|
-| **Python Programming** | ⭐⭐⭐⭐⭐ | Advanced Data Manipulation |
-| **SQL & Databases** | ⭐⭐⭐⭐⭐ | Query Optimization & Design |
-| **Data Analysis** | ⭐⭐⭐⭐⭐ | EDA & Statistical Testing |
-| **Data Visualization** | ⭐⭐⭐⭐⭐ | Dashboard Creation |
-| **Machine Learning** | ⭐⭐⭐⭐ | Supervised Learning Basics |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yennam-ram-bramha-reddy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamBramhaReddy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rambrahmareddyyennam@gmail.com)
 
 </div>
 
 ---
 
-## 🔥 <span style="color:#00D9FF">FEATURED PROJECTS</span>
-
 <div align="center">
 
-### 🍽️ Smart Restaurant Recommendation Engine
-**Data-driven insights for restaurant selection**
+**"Data is the new oil, and I'm learning to refine it!" 🚀**
 
-```
-Python → Pandas/NumPy → SQL → Power BI
-```
+*If you find my work valuable, consider giving my repositories a ⭐*
 
-**Key Metrics:**
-- 📊 Analyzed 50K+ restaurant records
-- 🎯 Built ML recommendation model (85% accuracy)
-- 📈 Created interactive Power BI dashboard
-
----
-
-### 💼 Analytics Dashboard Suite
-**Real-time business intelligence platform**
-
-```
-SQL → Python Automation → Power BI/Tableau
-```
-
-**Achievements:**
-- ⚡ Optimized queries (10x faster)
-- 📉 Interactive KPI tracking
-- 🔔 Automated alerts & reporting
-
-</div>
-
----
-
-## 📊 <span style="color:#00D9FF">GITHUB METRICS</span>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RamBramhaReddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=00D9FF" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RamBramhaReddy&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=58A6FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamBramhaReddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=00D9FF" />
-</div>
-
----
-
-## 🎓 <span style="color:#00D9FF">LEARNING BLUEPRINT</span>
-
-```
-┌─────────────────────────────────────────────┐
-│  📚 My Data Science Journey                 │
-├─────────────────────────────────────────────┤
-│ Phase 1: Python Mastery ✅                  │
-│ Phase 2: SQL & Databases ✅                 │
-│ Phase 3: Data Analysis & EDA 🔄             │
-│ Phase 4: Visualization & BI 🔄              │
-│ Phase 5: Machine Learning 🚀                │
-│ Phase 6: Production ML Systems 📌           │
-└─────────────────────────────────────────────┘
-```
-
-### 🎯 Currently Focusing On
-- 🔍 **Advanced SQL** → Query Optimization & Complex Joins
-- 📊 **Data Visualization** → Telling Compelling Stories
-- 🧪 **Statistical Analysis** → Hypothesis Testing
-- 💪 **Real-world Projects** → Building Portfolio
-- 🤖 **ML Fundamentals** → Supervised Learning
-
----
-
-## 🌟 <span style="color:#00D9FF">PROFESSIONAL SUMMARY</span>
-
-> 📌 **Currently:** Training in Data Science at Innomatics Research Labs  
-> 🎯 **Goal:** Master end-to-end analytics pipeline  
-> 💡 **Passion:** Uncovering hidden patterns in data  
-> ⚡ **Superpower:** Turning complex datasets into insights  
-
----
-
-## 🤝 <span style="color:#00D9FF">LET'S COLLABORATE</span>
-
-<div align="center">
-  <p><strong>I'm open to collaborations on data projects, knowledge sharing, and growing together!</strong></p>
-  <br/>
-  <a href="https://www.linkedin.com/in/rambramhareddy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/RamBramhaReddy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
-  <br/><br/>
-  <p>
-    <strong>⭐ If you like what you see, consider giving this profile a star! ⭐</strong>
-  </p>
-  <p>
-    <em>"Every dataset has a story. I'm here to tell it."</em>
-  </p>
-  <br/>
-  <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Updated-Dec%202025-blue?style=flat-square" />
 </div>
