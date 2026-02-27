@@ -12,9 +12,6 @@ Obsessed with the "why" behind the numbers. I dig into real-world datasets, spot
 ![](https://nirzak-streak-stats.vercel.app/?user=RamBramhaReddy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamBramhaReddy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RamBramhaReddy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
