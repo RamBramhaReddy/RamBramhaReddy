@@ -167,9 +167,9 @@ EXPLORING     MLOps · NLP · Recommendation Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RamBramhaReddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=prs&rank_icon=github" height="165" />
+<img src="https://readme-stats.hyouka.dev/api?username=RamBramhaReddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=prs&rank_icon=github" height="165" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamBramhaReddy&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" />
+<img src="https://readme-stats.hyouka.dev/api/top-langs/?username=RamBramhaReddy&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" />
 
 </div>
 
