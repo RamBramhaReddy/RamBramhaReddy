@@ -1,28 +1,23 @@
-<div align="center">
-
 # Yennam Ram Bramha Reddy
 
-**`Data Science · Machine Learning · Analytics · SQL · Power BI`**
+### Aspiring Data Scientist & ML Engineer · Hyderabad, India
+
+I build end-to-end ML pipelines — from messy raw data to deployed, working apps — and document the journey with real metrics, not buzzwords.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yennam-ram-bramha-reddy/)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rambrahmareddyyennam@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-97%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/RamBramhaReddy/leetcode-solutions)
 [![Portfolio](https://img.shields.io/badge/All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamBramhaReddy?tab=repositories)
 
-</div>
-
 ---
 
 ```python
 profile = {
-    "name"         : "Yennam Ram Bramha Reddy",
     "role"         : "Aspiring Data Scientist | ML Engineer",
     "education"    : "B.Tech — Computer Science & Engineering",
-    "location"     : "Hyderabad, India",
     "open_to"      : ["Data Scientist", "ML Engineer", "Data Analyst"],
     "building"     : "End-to-end ML pipelines + DSA (Python)",
     "exploring"    : ["FastAPI", "MLOps", "NLP", "Recommendation Systems"],
-    "writes_about" : "Python concepts for beginners → LinkedIn",
 }
 ```
 
@@ -133,7 +128,7 @@ profile = {
 
 ## 🧠 DSA & Problem Solving
 
-> **97 problems solved** — auto-synced to GitHub via LeetSync on every submission
+**97 problems solved** — auto-synced to GitHub via LeetSync on every submission
 
 | Topic | Problems |
 |---|---|
@@ -148,27 +143,34 @@ profile = {
 
 ## 🛠️ Tech Stack
 
-```
-LANGUAGE      Python · SQL
-──────────────────────────────────────────────────────
-DATA          Pandas · NumPy · Matplotlib · Seaborn
-ML            Scikit-learn · XGBoost · SMOTE · Statsmodels
-BI            Power BI · DAX · Tableau
-SCRAPING      BeautifulSoup · Requests
-APP           Streamlit · FastAPI (learning) · Jupyter
-DATABASE      MySQL · SQLite
-TOOLS         Git · GitHub · LeetSync · VS Code · Excel
-EXPLORING     MLOps · NLP · Recommendation Systems
-```
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0066B2?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**App & Database**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+*Currently exploring: FastAPI · MLOps · NLP · Recommendation Systems*
 
 ---
-
-## 📈 GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamBramhaReddy&theme=tokyo-night&hide_border=true&area=true)
-
-<div align="center">
-
 
 ### 🎯 Open to Entry-Level Roles · Hyderabad · Remote · Relocation
 
@@ -176,5 +178,3 @@ EXPLORING     MLOps · NLP · Recommendation Systems
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Talk-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yennam-ram-bramha-reddy/)
 [![Email](https://img.shields.io/badge/rambrahmareddyyennam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rambrahmareddyyennam@gmail.com)
-
-</div>
